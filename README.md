@@ -3,5 +3,7 @@ Esse repositório tem como objetivo exemplificar os conceitos apresentados em au
 
 
 5  Commits 
-2 pullrequest (1 aberto e 1 fechado) 
+
+2 pullrequest (1 aberto e 1 fechado)
+
 2 issues (1 aberta e 1 fechada)
